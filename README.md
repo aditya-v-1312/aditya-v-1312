@@ -127,8 +127,8 @@ I translate messy, real-world data into actionable strategic decisions. Currentl
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=aditya-v-1312&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's Stats" decoding="async](https://github-readme-stats.vercel.app/api?username=aditya-v-1312&show_icons=true)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-v-1312&layout=compact&theme=tokyonight&hide_border=true" alt="Aditya's Languages" decoding="async" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-v-1312&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Aditya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-v-1312&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Aditya's Languages" />
 </p>
 
 ---
