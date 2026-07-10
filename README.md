@@ -1,51 +1,150 @@
-# Hi, I'm Aditya Chandiramani! 👋
+<div align="center">
 
-I translate messy, real-world data into actionable decisions. Currently pursuing a **BSc in Management and Data Analysis at IIT Madras** and a **BCA at Navrachana University**, I have hands-on experience across India, the Congo, and remote fintech. I thrive in both structured firms and frontier markets, leveraging technology to build data-driven solutions.
+# 👋 Hi, I'm Aditya Chandiramani
+### Data Analyst | Aspiring AI Engineer | Full Stack & Financial Strategist
 
----
+<a href="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20Data-Driven%20Futures&fontSize=40&fontAlignY=40&desc=IIT%20Madras%20%7C%20Data%20Science%20%7C%20Cloud%20Security"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20Data-Driven%20Futures&fontSize=40&fontAlignY=40&desc=IIT%20Madras%20%7C%20Data%20Science%20%7C%20Cloud%20Security" width="100%"/></a>
 
-### 💼 Professional Focus
-* **Data Analysis:** Turning financial data into narratives and insights.
-* **Engineering & Strategy:** Founder of **Bizenix**, building end-to-end tech-driven business solutions.
-* **Cloud Security:** AWS Academy Graduate (Cloud Foundations & Security).
-* **Leadership:** Former Head Boy of the BCA Committee at Navrachana University.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Data+Analysis+Specialist;Financial+Modeler;Cloud+Security+Certified;Python+Developer)](https://git.io/typing-svg)
 
----
+![IIT Madras](https://img.shields.io/badge/IIT_Madras-BSc_Management_%26_Data_Analysis-blue?style=for-the-badge&logo=iit)
+![NUV](https://img.shields.io/badge/NUV-BCA_Computer_Science-purple?style=for-the-badge)
+![Location](https://img.shields.io/badge/India-Vadodara-indigo?style=flat-square&logo=google-maps)
 
-### 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityachandiramani)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya@bizenix.in)
-[![Website](https://img.shields.io/badge/Bizenix-000?logo=googlechrome&logoColor=white)](https://bizenix.in)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-chandiramani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aditya.vijay1312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/aditya-v-1312"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-v-1312&color=7B68EE&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/aditya-v-1312?style=for-the-badge&color=7B68EE)
+![Stars](https://img.shields.io/github/stars/aditya-v-1312?style=for-the-badge&color=7B68EE)
 
-### 💻 Core Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aditya-v-1312&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-v-1312&theme=radical&hide_border=false&layout=compact)
+## 🚀 About Me
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditya-v-1312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> *"The future belongs to those who can imagine it, design it, and execute it."*
+
+I translate messy, real-world data into actionable strategic decisions. Currently pursuing a **BSc in Management and Data Analysis at IIT Madras** alongside a **BCA at Navrachana University**, I have built a diverse portfolio spanning fintech, international logistics, and cloud security.
+
+*   **Engineering Mindset:** Bridging the gap between raw financial data and business execution.
+*   **AI/ML Focus:** Leveraging Python for predictive modeling and automated data pipelines.
+*   **Global Experience:** Hands-on work in India, the Republic of the Congo, and remote fintech environments.
+*   **Open To:** Collaborations in Data Science, Financial Engineering, and Cloud Architecture.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://skillicons.dev/icons?i=py) ![SQL](https://skillicons.dev/icons?i=mysql) ![Excel](https://skillicons.dev/icons?i=excel)
+
+### Frontend & Tools
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Git](https://skillicons.dev/icons?i=git) ![VS Code](https://skillicons.dev/icons?i=vscode)
+
+### Backend, Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-### 💬 Languages
-* **English** (Fluent)
-* **French** (Fluent - AEFE French School System)
-* **Hindi** (Fluent)
-* **Spanish** (Working proficiency)
+## 🤖 AI / ML Expertise
 
-> *“Financial data tells a story; most cannot read it yet.”*
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Data Pipelines** | Advanced | Designing automated ETL processes using Pandas |
+| **Statistical Analysis** | Expert | Segmentation, time-series forecasting, and hypothesis testing |
+| **Cloud AI/ML** | Proficient | Claude API implementation & AWS Bedrock workflows |
+| **Financial Modeling** | Intermediate | Predictive trend analysis for quarterly planning |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aditya-v-1312&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏗 Featured Projects
+
+<details>
+<summary><b>1. Banking Deposit Segmentation Analysis</b></summary>
+
+*   <b>Description:</b> Analyzing 40k+ records to predict term deposit subscriptions.
+*   <b>Impact:</b> Reduced manual reporting by 30% via Python automation.
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| Python, Pandas | 40k Records | 30% Efficiency | GDPR Compliant | Strategic |
+</details>
+
+<details>
+<summary><b>2. Congolese Import Audit System</b></summary>
+
+*   <b>Description:</b> Automated dashboarding for logistics and customs compliance.
+*   <b>Impact:</b> Streamlined regulatory reporting for non-technical stakeholders.
+| Stack | Scale | Performance | Security | Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| Excel, VBA | Cross-Border | Real-time | Regulatory | Operational |
+</details>
+
+---
+
+## 💼 Experience
+
+### Data Analyst | SkillFied Mentor
+*May 2025 – July 2025*
+*   Developed predictive models for financial retention.
+*   Built scalable Python pipelines for cleaning financial time-series data.
+*   **Skills:** `Python` `Matplotlib` `Segmentation`
+
+### Data Analyst | BONAF (Congo)
+*May 2025 – July 2025*
+*   Managed cross-border import dataset auditing.
+*   Facilitated operational decision-making in a multilingual, frontier-market environment.
+*   **Skills:** `Statistical Analysis` `Excel` `Cross-Cultural Management`
+
+---
+
+## 🏆 Achievements
+
+<center>
+
+| Recognition | Details |
+| :--- | :--- |
+| Head Boy | BCA Committee, Navrachana University |
+| Workshop Lead | Digital Identity & Personal Branding |
+| Top Contributor | Financial Modeling & Data Forecasting |
+
+</center>
+
+---
+
+## 🎓 Certifications
+
+**Amazon Web Services (AWS)**
+*   ![Badge](https://img.shields.io/badge/AWS-Cloud_Security_Foundations-232f3e?style=for-the-badge&logo=aws)
+*   ![Badge](https://img.shields.io/badge/AWS-Cloud_Foundations-232f3e?style=for-the-badge&logo=aws)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/aditya-v-1312">
+    <img src="https://github-readme-stats.vercel.app/api?username=aditya-v-1312&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-v-1312&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  </a>
+</p>
+
+---
+
+## 🐍 Activity & Trophies
+
+![Snake Animation](https://raw.githubusercontent.com/aditya-v-1312/aditya-v-1312/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Current Focus
+```yaml
+Focus:
+  Learning: "Agentic AI workflows & Model Context Protocol"
+  Building: "End-to-end data pipelines for fintech"
+  Exploring: "Quantum computing integration in data science"
+  Open_To: "Recruiters & Data Engineering Collaborations"
